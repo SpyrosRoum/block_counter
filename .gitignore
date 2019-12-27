@@ -62,6 +62,7 @@ db.sqlite3
 db.sqlite3-journal
 
 # Flask stuff:
+config.py
 instance/
 .webassets-cache
 
@@ -126,3 +127,6 @@ dmypy.json
 
 # VS Code
 .vscode
+
+
+blocks.json
